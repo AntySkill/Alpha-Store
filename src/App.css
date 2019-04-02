@@ -1,6 +1,8 @@
 :root {
   --mainWhite: #edfcfb;
   --mainDark: #030516;
+  --mainBlue: #007bff;
+  --lightBlue: #bdd0fc;
 }
 
 body {
@@ -9,6 +11,3 @@ body {
   color: var(--mainDark) !important;
 }
 
-.text-title {
-  
-}
